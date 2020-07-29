@@ -1,8 +1,9 @@
 ## Hi there 👋! I'm A. Zheng, an iOS developer.
-📱 I have an app, Find, which lets you search for text in real life.
+Here are my apps!
 
 | Find        | ProgressGif           |
 | :-------------: |:-------------:|
+| Find text in real life! | Add progress bars to gifs! |
 | ![Card 1](https://raw.githubusercontent.com/aheze/Assets/master/Artboard%20Copy%202.png) | ![Card 2](https://raw.githubusercontent.com/aheze/Assets/master/Artboard%20Copy%202.png) |
 
 <!--
