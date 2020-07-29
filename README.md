@@ -6,6 +6,17 @@
 | ![Card 1](https://raw.githubusercontent.com/aheze/Assets/master/Find%202.png) | ![Card 2](https://raw.githubusercontent.com/aheze/Assets/master/Artboard%20Copy%202.png) |
 | **Find text in real life!**<br>100% free, no ads | **Add progress bars to gifs!**<br>Open source |
 
+### 🔭 I’m currently working on...
+- My first and most fully-featured app, [Find](https://apps.apple.com/app/find-command-f-for-camera/id1506500202)
+- An open-source app, [ProgressGif](https://github.com/aheze/ProgressGif)
+- A *floating* toolbar for iPadOS's floating keyboard
+
+### 🌱 I’m currently learning...
+- Swift — even when you think you've mastered it, there's still more to learn!
+- Web Dev — I'm starting as soon as I launch [ProgressGif](https://github.com/aheze/ProgressGif)
+
+I code for fun, but I also have a blog on [Medium](https://medium.com/@ahzzheng)!
+
 <!--
 **aheze/aheze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
