@@ -1,8 +1,7 @@
 ## Hi there 👋! I'm A. Zheng, an iOS developer.
 ### 📱 My apps:
-| <h3>[**Find**](https://apps.apple.com/app/find-command-f-for-camera/id1506500202)</h3> | <h3>[**ProgressGif**](https://github.com/aheze/ProgressGif)</h3>  |
+| <h1>[**Find**](https://apps.apple.com/app/find-command-f-for-camera/id1506500202)</h1><br>[![Find app](https://raw.githubusercontent.com/aheze/Assets/master/Image/Find.png)](https://apps.apple.com/app/find-command-f-for-camera/id1506500202) | <h1>[**ProgressGif**](https://github.com/aheze/ProgressGif)</h1><br>[![Progress Gif app](https://raw.githubusercontent.com/aheze/Assets/master/Image/ProgressGif.png)](https://github.com/aheze/ProgressGif) |
 | :-------------: |:-------------:|
-| [![Find app](https://raw.githubusercontent.com/aheze/Assets/master/Image/Find.png)](https://apps.apple.com/app/find-command-f-for-camera/id1506500202) | [![Progress Gif app](https://raw.githubusercontent.com/aheze/Assets/master/Image/ProgressGif.png)](https://github.com/aheze/ProgressGif) |
 | **Find text in real life!**<br>100% free, no ads | **Add progress bars to gifs!**<br>Open source |
 
 ### 🔭 I’m currently working on...
