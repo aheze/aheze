@@ -2,7 +2,7 @@
 ### 📱 My apps:
 | **Find** \| [Download on the App Store!](https://apps.apple.com/app/find-command-f-for-camera/id1506500202)| **ProgressGif** \| [In progress](https://github.com/aheze/ProgressGif)  |
 | :-------------: |:-------------:|
-| ![Card 1](https://raw.githubusercontent.com/aheze/Assets/master/Find%202.png) | ![Card 2](https://raw.githubusercontent.com/aheze/Assets/master/Artboard%20Copy%202.png) |
+| ![Card 1](https://raw.githubusercontent.com/aheze/Assets/master/Image/Find.png) | ![Card 2](https://raw.githubusercontent.com/aheze/Assets/master/Image/ProgressGif.png) |
 | **Find text in real life!**<br>100% free, no ads | **Add progress bars to gifs!**<br>Open source |
 
 ### 🔭 I’m currently working on...
