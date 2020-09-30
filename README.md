@@ -11,7 +11,7 @@
 
 ### 🌱 I’m currently learning...
 - Web Dev — Starting with HTML, CSS, JS
-- Swift — even when you think you've mastered it, there's still more to learn!
+- Swift — there's still a lot more to learn!
 
 I also have a blog on [Medium](https://medium.com/@ahzzheng)!
 
