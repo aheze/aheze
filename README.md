@@ -13,7 +13,7 @@
 - Web Dev — Starting with HTML, CSS, JS
 - Swift — there's still a lot more to learn!
 
-I also have a blog on [Medium](https://medium.com/@ahzzheng)!
+I also have a blog on [Medium](https://aheze.medium.com/)!
 
 <!--
 **aheze/aheze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
