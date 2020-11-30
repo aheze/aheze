@@ -15,6 +15,8 @@
 
 I also have a blog on [Medium](https://aheze.medium.com/)!
 
+![](https://komarev.com/ghpvc/?username=aheze&color=00aeef)
+
 <!--
 **aheze/aheze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
