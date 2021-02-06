@@ -7,12 +7,12 @@
 ### 🔭 I’m currently working on...
 - My first and most fully-featured app, [Find](https://apps.apple.com/app/find-command-f-for-camera/id1506500202)
 - An open-source app, [ProgressGif](https://github.com/aheze/ProgressGif)
-- An open-source library, [SupportDocs](https://github.com/aheze/SupportDocs), with [H. Kamran](https://github.com/hkamran80). For generating help centers with Markdown, in your iOS app! **Update 11/20: Now released!**
+- An open-source library, [SupportDocs](https://github.com/aheze/SupportDocs), with [H. Kamran](https://github.com/hkamran80). For generating help centers with Markdown, in your iOS app! **Update November 2020: Now released!**
 
 ### ✅ I'm working a lot on Find, and will get back to open source sometime in March.
 
 ### 🌱 I’m currently learning...
-- Web Dev — Starting with HTML, CSS, JS
+- Web Dev — starting with HTML, CSS, JS
 - Swift — there's still a lot more to learn
 
 I also have a blog on [Medium](https://aheze.medium.com/)!
