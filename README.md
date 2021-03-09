@@ -1,11 +1,11 @@
 ## Hi there 👋! I'm A. Zheng, an iOS developer.
 ### 📱 Here's some of my apps:
-| [![Find app](https://raw.githubusercontent.com/aheze/Assets/master/Image/Find.png)](https://apps.apple.com/app/find-command-f-for-camera/id1506500202) | [![Progress Gif app](https://raw.githubusercontent.com/aheze/Assets/master/Image/ProgressGif.png)](https://apps.apple.com/us/app/id1526969349) |
+| [![Find app](https://raw.githubusercontent.com/aheze/Assets/master/Image/Find.png)](https://www.getfind.app/) | [![Progress Gif app](https://raw.githubusercontent.com/aheze/Assets/master/Image/ProgressGif.png)](https://apps.apple.com/us/app/id1526969349) |
 | :-------------: |:-------------:|
 | **Find text in real life!**<br>[Completely free, no ads](https://github.com/aheze/ProgressGif) | **Add progress bars to gifs!**<br>[Open source, MIT License](https://github.com/aheze/ProgressGif) |
 
 ### 🔭 I’m currently working on...
-- My first and most fully-featured app, [Find](https://apps.apple.com/app/find-command-f-for-camera/id1506500202)
+- My first and most fully-featured app, [Find](https://www.getfind.app/)
 - An open-source app, [ProgressGif](https://github.com/aheze/ProgressGif)
 - An open-source library, [SupportDocs](https://github.com/aheze/SupportDocs), with [H. Kamran](https://github.com/hkamran80). For generating help centers with Markdown, in your iOS app! **Update November 2020: Now released!**
 - Learning how to draw — I'm planning on a vtuber maker app
