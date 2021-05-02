@@ -5,16 +5,17 @@
 | **Find text in real life!**<br>[Completely free, no ads](https://www.getfind.app) | **Add progress bars to gifs!**<br>[Open source, MIT License](https://github.com/aheze/ProgressGif) |
 
 ### 🔭 I’m currently working on...
+- Studying for APs and finals
 - My first and most fully-featured app, [Find](https://www.getfind.app)
 - An open-source app, [ProgressGif](https://github.com/aheze/ProgressGif)
-- An open-source library, [SupportDocs](https://github.com/aheze/SupportDocs), with [H. Kamran](https://github.com/hkamran80). For generating help centers with Markdown, in your iOS app! **Update November 2020: Now released!**
+- An open-source library, [SupportDocs](https://github.com/aheze/SupportDocs), with [H. Kamran](https://github.com/hkamran80)
 - Learning how to draw — I'm planning on a vtuber maker app
 
 ### 🌱 I’m currently learning...
 - Web Dev — starting with HTML, CSS, JS
-- Swift — there's still a lot more to learn
+- Swift — still a lot more to learn
 
-I also have a blog on [Medium](https://aheze.medium.com/)!
+I also [blog](https://aheze.medium.com/) occasionally!
 
 ![](https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter)
 
