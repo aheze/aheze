@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm A. Zheng, an iOS developer.
 
-[![Find app](Assets/Find.png)](https://getfind.app/)
+[![Find app](Assets/Header.png)](https://getfind.app/)
 
 <table>
 <tr>
