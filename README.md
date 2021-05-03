@@ -1,8 +1,5 @@
 ## Hi there 👋! I'm A. Zheng, an iOS developer.
-### 📱 Here's some of my apps:
-| [![Find app](https://raw.githubusercontent.com/aheze/Assets/master/Image/Find.png)](https://www.getfind.app) | [![Progress Gif app](https://raw.githubusercontent.com/aheze/Assets/master/Image/ProgressGif.png)](https://apps.apple.com/us/app/id1526969349) |
-| :-------------: |:-------------:|
-| **Find text in real life!**<br>[Completely free, no ads](https://www.getfind.app) | **Add progress bars to gifs!**<br>[Open source, MIT License](https://github.com/aheze/ProgressGif) |
+[![Find app](Assets/Find.png)](https://www.getfind.app)
 
 ### 🔭 I’m currently working on...
 - Studying for APs and finals
