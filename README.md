@@ -1,95 +1,35 @@
 ## Hi there 👋! I'm A. Zheng, an iOS developer.
+### 📱 Here's some of my apps:
+| [![Find app](https://raw.githubusercontent.com/aheze/Assets/master/Image/Find.png)](https://www.getfind.app) | [![Progress Gif app](https://raw.githubusercontent.com/aheze/Assets/master/Image/ProgressGif.png)](https://apps.apple.com/us/app/id1526969349) |
+| :-------------: |:-------------:|
+| **Find text in real life!**<br>[Completely free, no ads](https://www.getfind.app) | **Add progress bars to gifs!**<br>[Open source, MIT License](https://github.com/aheze/ProgressGif) |
 
-[![Find app](Assets/Header.png)](https://getfind.app/)
+### 🔭 I’m currently working on...
+- Studying for APs and finals
+- My first and most fully-featured app, [Find](https://www.getfind.app)
+- An open-source app, [ProgressGif](https://github.com/aheze/ProgressGif)
+- An open-source library, [SupportDocs](https://github.com/aheze/SupportDocs), with [H. Kamran](https://github.com/hkamran80)
+- Learning how to draw — I'm planning on a vtuber maker app
 
-<table>
-<tr>
-<td>
-I like Swift
-</td>
-<td>
-I also like anime
-</td>
-<td colspan="2">
-Check out my app ↑
-</td>
-</tr>
+### 🌱 I’m currently learning...
+- Web Dev — starting with HTML, CSS, JS
+- Swift — still a lot more to learn
 
-<tr>
-<td>
-<strong>Working on...</strong>
-</td>
-<td>
-<strong>Learning...</strong>
-</td>
-<td>
-<strong>Planning...</strong>
-</td>
-<td>
-<strong>Playing...</strong>
-</td>
-</tr>
+I also [blog](https://aheze.medium.com/) occasionally!
 
-<tr>
-<td>
-<a href="https://getfind.app/">Find<a>, my first and most fully-featured app
-</td>
-<td>
-Web Dev — starting with HTML, CSS, JS
-</td>
-<td>
-Big updates to Find
-</td>
-<td>
-<a href="https://stackoverflow.com/users/14351818/aheze">SO<a>
-</td>
-</tr>
+![](https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter)
 
+<!--
+**aheze/aheze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-<tr>
-<td>
-<a href="https://github.com/aheze/ProgressGif">ProgressGif<a>, an open-source app
-</td>
-<td>
-Swift — still a lot more to learn
-</td>
-<td>
-A vtuber maker app
-</td>
-<td>
-<a href="https://www.minecraft.net/en-us/">Minecraft<a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/aheze/SupportDocs">SupportDocs<a>, with <a href="https://github.com/hkamran80">H. Kamran<a>
-</td>
-<td>
-Drawing — it's pretty fun
-</td>
-<td>
-New open-source libraries
-</td>
-<td>
-<a href="https://agma.io/">agma.io<a>
-</td>
-</tr>
-
-<tr>
-<td>
-Check out my <a href="https://aheze.medium.com/">blog<a>!
-</td>
-<td>
-<a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a>
-</td>
-<td colspan="2">
-
-<img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter">
-</td>
-</tr>
-
-</table>
-
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
