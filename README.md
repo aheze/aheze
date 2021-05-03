@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm A. Zheng, an iOS developer.
+## 👋　Hi there! I'm A. Zheng, an iOS developer.
 
 [![Find app](Assets/Header.png)](https://getfind.app/)
 
