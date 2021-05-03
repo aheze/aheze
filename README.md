@@ -79,10 +79,10 @@ New open-source libraries
 
 <tr>
 <td>
-Check out my <a href="https://aheze.medium.com/">blog<a>!
+<em>Check out my <a href="https://aheze.medium.com/">blog<a>!</em>
 </td>
 <td>
-<a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a>
+<em><a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a></em>
 </td>
 <td colspan="2">
 
