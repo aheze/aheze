@@ -1,17 +1,11 @@
-## Hi there 👋! I'm A. Zheng, an iOS developer.
+## 👋 Hi there! I'm A. Zheng, an iOS developer.
 
-[![Find app](Assets/Find.png)](https://getfind.app/)
+[![Find app](Assets/Header.png)](https://getfind.app/)
 
 <table>
 <tr>
-<td>
-I like Swift
-</td>
-<td>
-I also like anime
-</td>
-<td colspan="2">
-Check out my app ↑
+<td colspan="4">
+I like Swift and anime... currently watching <a href="https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san">Ijiranaide, Nagatoro-san<a>. ↑ Want to check out my app?
 </td>
 </tr>
 
@@ -79,10 +73,10 @@ New open-source libraries
 
 <tr>
 <td>
-Check out my <a href="https://aheze.medium.com/">blog<a>!
+<em>Check out my <a href="https://aheze.medium.com/">blog<a>!</em>
 </td>
 <td>
-<a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a>
+<em><a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a></em>
 </td>
 <td colspan="2">
 
@@ -91,5 +85,4 @@ Check out my <a href="https://aheze.medium.com/">blog<a>!
 </tr>
 
 </table>
-
 
