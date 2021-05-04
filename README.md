@@ -4,14 +4,8 @@
 
 <table>
 <tr>
-<td>
-I like Swift
-</td>
-<td>
-I also like anime
-</td>
-<td colspan="2">
-Check out my app ↑
+<td colspan="4">
+I like Swift and anime... currently watching <a href="https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san">Ijiranaide, Nagatoro-san<a>. ↑ Want to check out my app?
 </td>
 </tr>
 
