@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td colspan="4">
-I like Swift and anime... currently watching <a href="https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san">Ijiranaide, Nagatoro-san<a>. Want to check out my app? <a href="#"><img src="Assets/Up.png" alt="Up arrow"></a>
+I like Swift and anime... currently watching『Ijiranaide, Nagatoro-san』 Want to check out my app? <a href="#"><img src="Assets/Up.png" alt="Up arrow"></a>
 </td>
 </tr>
 
@@ -73,10 +73,10 @@ New open-source libraries
 
 <tr>
 <td>
-<em>Check out my <a href="https://aheze.medium.com/">blog<a>!</em>
+<i>Check out my <a href="https://aheze.medium.com/">blog<a>!</i>
 </td>
 <td>
-<em><a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a></em>
+<i><a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a></i>
 </td>
 <td colspan="2">
 
