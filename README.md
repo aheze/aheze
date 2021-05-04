@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td colspan="4">
-I like Swift and anime... currently watching <a href="https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san">Ijiranaide, Nagatoro-san<a>. Want to check out my app? <a href="."><img src="Assets/Up.png" alt="Up arrow"></a>
+I like Swift and anime... currently watching <a href="https://myanimelist.net/anime/42361/Ijiranaide_Nagatoro-san">Ijiranaide, Nagatoro-san<a>. Want to check out my app? <a href="#"><img src="Assets/Up.png" alt="Up arrow"></a>
 </td>
 </tr>
 
