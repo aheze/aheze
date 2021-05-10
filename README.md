@@ -79,7 +79,7 @@ New open-source libraries
 <i><a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a></i>
 </td>
 <td colspan="2">
-<strong>Currently:</strong> Studying for the APs they're so haaaaaard
+<strong>Currently:</strong> Studying for APs, so haaard
 </td>
 </tr>
 
