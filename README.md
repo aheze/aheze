@@ -79,10 +79,10 @@ New open-source libraries
 <i><a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a></i>
 </td>
 <td colspan="2">
-
-<a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter"></a>
+<strong>Currently:</strong> Studying for the APs they're so haaaaaard
 </td>
 </tr>
 
 </table>
 
+<a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter"></a>
