@@ -85,4 +85,4 @@ New open-source libraries
 
 </table>
 
-<a href="javascript:;"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter"></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter"></a>
