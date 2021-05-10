@@ -11,16 +11,16 @@ I like Swift and anime... currently watching『Ijiranaide, Nagatoro-san』〜 Wa
 
 <tr>
 <td>
-<strong>Working on...</strong>
+<strong>Working on:</strong>
 </td>
 <td>
-<strong>Learning...</strong>
+<strong>Learning:</strong>
 </td>
 <td>
-<strong>Planning...</strong>
+<strong>Planning:</strong>
 </td>
 <td>
-<strong>Playing...</strong>
+<strong>Playing:</strong>
 </td>
 </tr>
 
