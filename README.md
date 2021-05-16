@@ -67,7 +67,7 @@ Drawing — it's pretty fun
 New open-source libraries
 </td>
 <td>
-<a href="https://agma.io/">agma.io<a>
+<a href="https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/224/20/">Reading<a>
 </td>
 </tr>
 
