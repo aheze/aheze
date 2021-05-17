@@ -79,7 +79,7 @@ New open-source libraries
 <i><a href="https://discord.com/users/743230678795288637">Discord<a> • <a href="https://www.reddit.com/user/aheze">Reddit<a> • <a href="mailto:aheze@getfind.app">Email<a></i>
 </td>
 <td colspan="2">
-<strong>Currently:</strong> 1 AP left!
+<strong>Currently:</strong> Essay due Wednesday
 </td>
 </tr>
 
