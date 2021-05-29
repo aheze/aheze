@@ -104,7 +104,7 @@ Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resum
 <a href="https://discord.com/users/743230678795288637">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Discord.png" width="46">
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/aheze/">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/LinkedIn.png" width="46">
 </a>
 <a href="https://aheze.medium.com/">
