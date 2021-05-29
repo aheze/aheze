@@ -1,11 +1,12 @@
 ## 👋 Hi there! I'm A. Zheng, an iOS developer.
 
-[![Find app](Assets/Header.png)](https://getfind.app/)
+
+
 
 <table>
 <tr>
 <td colspan="4">
-I like Swift and anime... currently watching『Ijiranaide, Nagatoro-san』〜 Want to check out my app? <a href="#"><img src="Assets/Up.png" alt="Up arrow"></a>
+I like coding with Swift and watching anime.
 </td>
 </tr>
 
@@ -82,7 +83,20 @@ New open-source libraries
 <strong>Currently:</strong> Looking for summer work
 </td>
 </tr>
+  
+<tr>
+<td colspan="4">
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&hide_border=true&custom_title=My%20GitHub%20Stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact&hide_border=true" />
+</a>
+</td>
+</tr>
 
 </table>
 
+  
+  
 <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter"></a>
