@@ -92,22 +92,22 @@ Read my resume, or check out my socials:
 <tr>
 <td colspan="4">
 <a href="mailto:aheze@getfind.app">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Email.png" width="50">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Email.png" width="46">
 </a>
 <a href="https://stackoverflow.com/users/14351818/">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/StackOverflow.png" width="50">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/StackOverflow.png" width="46">
 </a>
 <a href="https://www.reddit.com/user/aheze">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Reddit.png" width="50">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Reddit.png" width="46">
 </a>
 <a href="https://discord.com/users/743230678795288637">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Discord.png" width="50">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Discord.png" width="46">
 </a>
 <a href="#">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/LinkedIn.png" width="50">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/LinkedIn.png" width="46">
 </a>
 <a href="https://aheze.medium.com/">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Medium.png" width="50">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Medium.png" width="46">
 </a>
 </td>
 
