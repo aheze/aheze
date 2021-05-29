@@ -14,10 +14,10 @@ I like coding with Swift and watching anime.
 <strong>Working on:</strong>
 </td>
 <td colspan="2">
-<strong>Planning:</strong>
+<strong>Learning:</strong>
 </td>
 <td colspan="2">
-<strong>Learning:</strong>
+<strong>Planning:</strong>
 </td>
 <td colspan="2">
 <strong>Playing:</strong>
@@ -29,10 +29,10 @@ I like coding with Swift and watching anime.
 <a href="https://getfind.app/">Find</a>, my first and most fully-featured app
 </td>
 <td colspan="2">
-Updates to Find
+Web Dev - starting with HTML, CSS, JS
 </td>
 <td colspan="2">
-Web Dev — starting with HTML, CSS, JS
+Updates to Find
 </td>
 <td colspan="2">
 <a href="https://www.sketch.com/">Sketch</a>
@@ -46,10 +46,10 @@ Web Dev — starting with HTML, CSS, JS
 <a href="https://github.com/aheze/ProgressGif">ProgressGif</a>, an open-source app
 </td>
 <td colspan="2">
-A vtuber engine
+Swift - still a lot more to learn
 </td>
 <td colspan="2">
-Swift — still a lot more to learn
+A vtuber engine
 </td>
 <td colspan="2">
 <a href="https://www.minecraft.net/en-us/">Minecraft</a>
@@ -58,13 +58,13 @@ Swift — still a lot more to learn
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, with <a href="https://github.com/hkamran80">H. Kamran</a>
+<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library</a>
+</td>
+<td colspan="2">
+Drawing anime characters - relaxing
 </td>
 <td colspan="2">
 New open-source libraries
-</td>
-<td colspan="2">
-Drawing anime characters — it's pretty fun
 </td>
 <td colspan="2">
 <a href="https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/224/1/">Reading</a>
