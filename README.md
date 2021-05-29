@@ -87,10 +87,10 @@ New open-source libraries
 <tr>
 <td colspan="4">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&hide_border=true&custom_title=My%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact" />
 </a>
 </td>
 </tr>
