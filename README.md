@@ -26,7 +26,7 @@ I like coding with Swift and watching anime.
 
 <tr>
 <td colspan="2">
-<a href="https://getfind.app/">Find<a>, my first and most fully-featured app
+<a href="https://getfind.app/">Find</a>, my first and most fully-featured app
 </td>
 <td colspan="2">
 Web Dev — starting with HTML, CSS, JS
@@ -35,7 +35,7 @@ Web Dev — starting with HTML, CSS, JS
 Big updates to Find
 </td>
 <td colspan="2">
-<a href="https://www.sketch.com/">Sketch<a>
+<a href="https://www.sketch.com/">Sketch</a>
 </td>
 </tr>
 
@@ -43,7 +43,7 @@ Big updates to Find
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/ProgressGif">ProgressGif<a>, an open-source app
+<a href="https://github.com/aheze/ProgressGif">ProgressGif</a>, an open-source app
 </td>
 <td colspan="2">
 Swift — still a lot more to learn
@@ -52,13 +52,13 @@ Swift — still a lot more to learn
 A vtuber maker app
 </td>
 <td colspan="2">
-<a href="https://www.minecraft.net/en-us/">Minecraft<a>
+<a href="https://www.minecraft.net/en-us/">Minecraft</a>
 </td>
 </tr>
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/SupportDocs">SupportDocs<a>, with <a href="https://github.com/hkamran80">H. Kamran<a>
+<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, with <a href="https://github.com/hkamran80">H. Kamran</a>
 </td>
 <td colspan="2">
 Drawing — it's pretty fun
@@ -67,7 +67,7 @@ Drawing — it's pretty fun
 New open-source libraries
 </td>
 <td colspan="2">
-<a href="https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/224/1/">Reading<a>
+<a href="https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/224/1/">Reading</a>
 </td>
 </tr>
 
@@ -75,14 +75,15 @@ New open-source libraries
   
 <tr>
 <td colspan="4">
-Read my resume, or check out my socials:
+Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resume.pdf">resume</a>, or check out my socials:
 </td>
 
 <td colspan="2" rowspan="2">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats">
 </td>
+  
 <td colspan="2" rowspan="2">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
 </td>
 
 
@@ -111,9 +112,8 @@ Read my resume, or check out my socials:
 </a>
 </td>
 
-
 </table>
 
 
   
-<a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Trying+out+a+profile+view+counter"></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Profile views"></a>
