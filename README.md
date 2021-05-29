@@ -26,7 +26,7 @@ I like coding with Swift and watching anime.
 
 <tr>
 <td colspan="2">
-<a href="https://getfind.app/">Find</a>, my first and most fully-featured app
+<a href="https://getfind.app/">Find</a>, an app to find text in real life
 </td>
 <td colspan="2">
 Web Dev - starting with HTML, CSS, JS
