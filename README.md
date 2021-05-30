@@ -20,7 +20,7 @@ I like coding with Swift and watching anime.
 <strong>Planning:</strong>
 </td>
 <td colspan="2">
-<strong>Playing:</strong>
+<strong>Reading:</strong>
 </td>
 </tr>
 
@@ -35,7 +35,7 @@ Web Dev - starting with HTML, CSS, JS
 Updates to Find
 </td>
 <td colspan="2">
-<a href="https://www.sketch.com/">Sketch</a>
+Do Things that Don't Scale
 </td>
 </tr>
 
@@ -52,7 +52,7 @@ Swift - still a lot more to learn
 A vtuber engine
 </td>
 <td colspan="2">
-<a href="https://www.minecraft.net/en-us/">Minecraft</a>
+Kaguya-sama
 </td>
 </tr>
 
@@ -67,7 +67,7 @@ Drawing anime characters - relaxing
 New open-source libraries
 </td>
 <td colspan="2">
-<a href="https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/224/1/">Reading</a>
+You-Zitsu Vol. 9
 </td>
 </tr>
 
