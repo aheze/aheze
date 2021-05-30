@@ -52,7 +52,7 @@ Swift - still a lot more to learn
 A vtuber engine
 </td>
 <td colspan="2">
-Kaguya-sama
+Kaguya-sama Vol. 22
 </td>
 </tr>
 
