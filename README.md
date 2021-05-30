@@ -79,11 +79,15 @@ Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resum
 </td>
 
 <td colspan="2" rowspan="2">
+<a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats">
+</a>
 </td>
   
 <td colspan="2" rowspan="2">
+<a href="#">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
+</a>
 </td>
 
 
