@@ -61,7 +61,7 @@ Kaguya-sama Vol. 22
 <a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library</a>
 </td>
 <td colspan="2">
-Drawing anime characters - relaxing
+How to draw anime characters
 </td>
 <td colspan="2">
 New open-source libraries
