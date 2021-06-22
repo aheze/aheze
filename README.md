@@ -118,7 +118,7 @@ Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resum
 
 </table>
 
-<a href="#"><img src="https://img.shields.io/stackexchange/stackoverflow/r/14351818?color=F47F24&label=Stack%20Overflow"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Profile views"></a>
+<a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/stackexchange/stackoverflow/r/14351818?color=F47F24&label=Stack%20Overflow"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Profile views"></a>
 
   
 
