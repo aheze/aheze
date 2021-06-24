@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td colspan="8">
-I like coding with Swift and watching anime. I'm also a WWDC21 Scholar.
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Find.png" alt="Link to getfind.app">
 </td>
 </tr>
 
