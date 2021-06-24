@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm A. Zheng, an iOS developer.
 
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Find.png" alt="Link to getfind.app">
+<a href="https://getfind.app"><img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Find.png" alt="Link to getfind.app"></a>
 
 <table>
 <tr>
@@ -20,7 +20,7 @@
 
 <tr>
 <td colspan="2">
-<a href="https://getfind.app/">Find</a>, an app to find text in real life
+<a href="https://getfind.app">Find</a>, an app to find text in real life
 </td>
 <td colspan="2">
 Web Dev - starting with HTML, CSS, JS
