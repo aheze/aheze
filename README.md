@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td colspan="8">
-I like coding with Swift and watching anime.
+I like coding with Swift and watching anime. I'm also a WWDC21 Scholar.
 </td>
 </tr>
 
@@ -20,7 +20,7 @@ I like coding with Swift and watching anime.
 <strong>Planning:</strong>
 </td>
 <td colspan="2">
-<strong>Playing:</strong>
+<strong>Reading:</strong>
 </td>
 </tr>
 
@@ -35,7 +35,7 @@ Web Dev - starting with HTML, CSS, JS
 Updates to Find
 </td>
 <td colspan="2">
-<a href="https://www.sketch.com/">Sketch</a>
+Do Things that Don't Scale
 </td>
 </tr>
 
@@ -52,7 +52,7 @@ Swift - still a lot more to learn
 A vtuber engine
 </td>
 <td colspan="2">
-<a href="https://www.minecraft.net/en-us/">Minecraft</a>
+Kaguya-sama Vol. 22
 </td>
 </tr>
 
@@ -61,13 +61,13 @@ A vtuber engine
 <a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library</a>
 </td>
 <td colspan="2">
-Drawing anime characters - relaxing
+How to draw anime characters
 </td>
 <td colspan="2">
 New open-source libraries
 </td>
 <td colspan="2">
-<a href="https://guya.moe/read/manga/Kaguya-Wants-To-Be-Confessed-To/224/1/">Reading</a>
+You-Zitsu Vol. 9
 </td>
 </tr>
 
@@ -79,11 +79,15 @@ Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resum
 </td>
 
 <td colspan="2" rowspan="2">
+<a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats">
+</a>
 </td>
   
 <td colspan="2" rowspan="2">
+<a href="#">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
+</a>
 </td>
 
 
@@ -114,6 +118,10 @@ Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resum
 
 </table>
 
+<a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/stackexchange/stackoverflow/r/14351818?color=F47F24&label=Stack%20Overflow"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Profile%20Views"></a>
 
   
-<a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Profile views"></a>
+
+
+
+
