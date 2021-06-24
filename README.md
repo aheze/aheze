@@ -1,14 +1,8 @@
 ## 👋 Hi there! I'm A. Zheng, an iOS developer.
 
-
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Find.png" alt="Link to getfind.app">
 
 <table>
-<tr>
-<td colspan="8">
-I like coding with Swift and watching anime. I'm also a WWDC21 Scholar.
-</td>
-</tr>
-
 <tr>
 <td colspan="2">
 <strong>Working on:</strong>
