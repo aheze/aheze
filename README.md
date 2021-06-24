@@ -29,7 +29,7 @@ Web Dev - starting with HTML, CSS, JS
 Updates to Find
 </td>
 <td colspan="2">
-Do Things that Don't Scale
+Stack Overflow questions
 </td>
 </tr>
 
@@ -37,7 +37,7 @@ Do Things that Don't Scale
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/ProgressGif">ProgressGif</a>, an open-source app
+<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library
 </td>
 <td colspan="2">
 Swift - still a lot more to learn
@@ -52,7 +52,7 @@ Kaguya-sama Vol. 22
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library</a>
+<a href="https://github.com/aheze/ProgressGif">ProgressGif</a>, an open-source app
 </td>
 <td colspan="2">
 How to draw anime characters
