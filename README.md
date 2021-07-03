@@ -112,9 +112,10 @@ Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resum
 
 </table>
 
-<a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-8.1k%2B-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Profile%20Views"></a>
+<a href="https://discord.gg/YPWVcqq3R6"><img src="https://img.shields.io/badge/Click%20here%20to-join%20the%20Discord%20(beta)!-5865F2"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-8.1k%2B-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=00aeef&label=Profile%20Views"></a>
 
   
+
 
 
 
