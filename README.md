@@ -23,7 +23,7 @@
 <a href="https://getfind.app">Find</a>, an app to find text in real life
 </td>
 <td colspan="2">
-Web Dev - starting with HTML, CSS, JS
+Python + Web Dev
 </td>
 <td colspan="2">
 Updates to Find
