@@ -43,7 +43,7 @@ Stack Overflow questions
 Swift - still a lot more to learn
 </td>
 <td colspan="2">
-A vtuber engine
+Features for Findbot
 </td>
 <td colspan="2">
 Kaguya-sama Vol. 22
