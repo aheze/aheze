@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm A. Zheng, an iOS developer.
 
-<a href="https://getfind.app"><img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Find.png" alt="Link to getfind.app"></a>
+<a href="https://getfind.app"><img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/FindHeader.png" alt="Link to getfind.app"></a>
 
 <table>
 <tr>
