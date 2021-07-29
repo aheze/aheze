@@ -99,7 +99,7 @@ Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resum
 <a href="https://www.reddit.com/user/aheze">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Reddit.png" width="42">
 </a>
-<a href="https://discord.com/users/743230678795288637">
+<a href="https://discord.gg/Pmq8fYcus2">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Discord.png" width="42">
 </a>
 <a href="https://www.linkedin.com/in/aheze/">
