@@ -5,16 +5,16 @@
 <table>
 <tr>
 <td colspan="2">
-<strong>Working on:</strong>
+<strong><samp>Working on:</samp></strong>
 </td>
 <td colspan="2">
-<strong>Learning:</strong>
+<strong><samp>Learning:</samp></strong>
 </td>
 <td colspan="2">
-<strong>Planning:</strong>
+<strong><samp>Planning:</samp></strong>
 </td>
 <td colspan="2">
-<strong>Reading:</strong>
+<strong><samp>Reading:</samp></strong>
 </td>
 </tr>
 
