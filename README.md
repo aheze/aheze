@@ -61,7 +61,7 @@ How to draw anime characters
 New open-source libraries
 </td>
 <td colspan="2">
-You-Zitsu Vol. 9
+You-Zitsu Vol. 11
 </td>
 </tr>
 
