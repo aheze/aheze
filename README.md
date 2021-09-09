@@ -23,7 +23,7 @@
 <a href="https://getfind.app">Find</a>, an app to find text in real life
 </td>
 <td colspan="2">
-Swift
+Swift + SwiftUI
 </td>
 <td colspan="2">
 Updates to Find
