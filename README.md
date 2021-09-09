@@ -23,13 +23,13 @@
 <a href="https://getfind.app">Find</a>, an app to find text in real life
 </td>
 <td colspan="2">
-Python + Web Dev
+Swift
 </td>
 <td colspan="2">
 Updates to Find
 </td>
 <td colspan="2">
-Stack Overflow questions
+Stack Overflow posts
 </td>
 </tr>
 
@@ -40,13 +40,13 @@ Stack Overflow questions
 <a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library
 </td>
 <td colspan="2">
-Swift - still a lot more to learn
+How to design UI and UX
 </td>
 <td colspan="2">
-Features for Findbot
+New open-source libraries
 </td>
 <td colspan="2">
-Kaguya-sama Vol. 22
+Kaguya-sama Vol. 24
 </td>
 </tr>
 
@@ -55,10 +55,10 @@ Kaguya-sama Vol. 22
 <a href="https://github.com/aheze/ProgressGif">ProgressGif</a>, an open-source app
 </td>
 <td colspan="2">
-How to draw anime characters
+How to write the essays good
 </td>
 <td colspan="2">
-New open-source libraries
+On going to college
 </td>
 <td colspan="2">
 You-Zitsu Vol. 11
