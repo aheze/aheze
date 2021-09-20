@@ -29,7 +29,7 @@ Swift + SwiftUI
 Updates to Find
 </td>
 <td colspan="2">
-Stack Overflow posts
+You-Zitsu Vol. 12
 </td>
 </tr>
 
@@ -40,7 +40,7 @@ Stack Overflow posts
 <a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library
 </td>
 <td colspan="2">
-How to design UI and UX
+UI and UX design
 </td>
 <td colspan="2">
 New open-source libraries
@@ -61,7 +61,7 @@ How to write the essays good
 On going to college
 </td>
 <td colspan="2">
-You-Zitsu Vol. 11
+Stack Overflow posts
 </td>
 </tr>
 
@@ -69,7 +69,7 @@ You-Zitsu Vol. 11
   
 <tr>
 <td colspan="4">
-Read my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resume.pdf">resume</a>, or check out my socials:
+<em><samp>Find me on my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resume.pdf">Discord Server</a>.</samp></em>
 </td>
 
 <td colspan="2" rowspan="2">
