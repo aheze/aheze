@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm A. Zheng, an iOS developer.
+## 👋 Hi there! I'm A. Zheng, an iOS developer.
 
 <a href="https://getfind.app"><img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/FindHeader.png" alt="Link to getfind.app"></a>
 
@@ -69,7 +69,7 @@ Stack Overflow posts
   
 <tr>
 <td colspan="4">
-<em><samp>Find me on my <a href="https://raw.githubusercontent.com/aheze/aheze/master/Work/Resume.pdf">Discord Server</a>.</samp></em>
+<em><samp>Find me on my <a href="https://discord.gg/Pmq8fYcus2">Discord Server</a>.</samp></em>
 </td>
 
 <td colspan="2" rowspan="2">
