@@ -69,7 +69,7 @@ Stack Overflow posts
   
 <tr>
 <td colspan="4">
-<em><samp>Find me on my <a href="https://discord.gg/Pmq8fYcus2">Discord Server</a>.</samp></em>
+<em><samp>Find me in my <a href="https://discord.gg/Pmq8fYcus2">Discord Server</a>.</samp></em>
 </td>
 
 <td colspan="2" rowspan="2">
