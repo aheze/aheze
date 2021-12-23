@@ -37,7 +37,7 @@ You-Zitsu Vol. 12
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library
+<a href="https://github.com/aheze/Popovers">Popovers</a>, an open-source library
 </td>
 <td colspan="2">
 UI and UX design
@@ -52,7 +52,7 @@ Kaguya-sama Vol. 24
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/ProgressGif">ProgressGif</a>, an open-source app
+<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library
 </td>
 <td colspan="2">
 How to write the essays good
