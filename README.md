@@ -90,9 +90,6 @@ Stack Overflow posts
 
 <tr>
 <td colspan="4">
-<a href="mailto:aheze@getfind.app">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Email.svg" width="40">
-</a>
 <a href="https://twitter.com/aheze0">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Twitter.svg" width="40">
 </a>
@@ -102,14 +99,17 @@ Stack Overflow posts
 <a href="https://www.linkedin.com/in/aheze/">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/LinkedIn.svg" width="40">
 </a>
-<a href="https://aheze.medium.com/">
-<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Medium.svg" width="40">
-</a>
 <a href="https://www.reddit.com/user/aheze">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Reddit.svg" width="40">
 </a>
+<a href="https://aheze.medium.com/">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Medium.svg" width="40">
+</a>
 <a href="https://stackoverflow.com/users/14351818/">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/StackOverflow.svg" width="40">
+</a>
+<a href="mailto:aheze@getfind.app">
+<img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Email.svg" width="40">
 </a>
 </td>
 
