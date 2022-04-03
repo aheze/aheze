@@ -46,7 +46,7 @@ UI + UX design
 New open-source libraries
 </td>
 <td colspan="2">
-You-Zitsu vol. 12
+How Much of These Hills Is Gold
 </td>
 </tr>
 
