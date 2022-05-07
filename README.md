@@ -46,7 +46,7 @@ UI + UX design
 New open-source libraries
 </td>
 <td colspan="2">
-How Much of These Hills Is Gold
+Khan Academy SAT Prep
 </td>
 </tr>
 
