@@ -79,8 +79,8 @@ Stack Overflow posts
 </td>
   
 <td colspan="2" rowspan="2">
-<a href="https://github.com/aheze/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
-<img src="https://github.com/aheze/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
 </a>
 </td>
 
