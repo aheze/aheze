@@ -73,14 +73,14 @@ Stack Overflow posts
 </td>
 
 <td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats">
-<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&show_icons=true&custom_title=My%20GitHub%20Stats">
+<a href="https://github.com/aheze/github-stats/blob/master/generated/overview.svg#gh-light-mode-only">
+<img src="https://github.com/aheze/github-stats/blob/master/generated/overview.svg#gh-light-mode-only">
 </a>
 </td>
   
 <td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
+<a href="https://github.com/aheze/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
+<img src="https://github.com/aheze/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
 </a>
 </td>
 
