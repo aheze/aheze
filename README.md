@@ -73,14 +73,14 @@ Stack Overflow posts
 </td>
 
 <td colspan="2" rowspan="2">
-<a href="https://github.com/aheze/github-stats/blob/master/generated/overview.svg#gh-light-mode-only">
-<img src="https://github.com/aheze/github-stats/blob/master/generated/overview.svg#gh-light-mode-only">
+<a href="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
 </a>
 </td>
   
 <td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
 </a>
 </td>
 
