@@ -26,10 +26,10 @@
 Swift + SwiftUI
 </td>
 <td colspan="2">
-Updates to Find
+Find v3.0
 </td>
 <td colspan="2">
-Kaguya-sama vol. 25
+Anime Expo 2022 schedule
 </td>
 </tr>
 
@@ -46,7 +46,7 @@ UI + UX design
 New open-source libraries
 </td>
 <td colspan="2">
-Khan Academy SAT Prep
+Kaguya-sama vol. 25
 </td>
 </tr>
 
