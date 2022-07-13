@@ -29,7 +29,7 @@ Swift + SwiftUI
 Find v3.0
 </td>
 <td colspan="2">
-Anime Expo 2022 schedule
+Linear tickets
 </td>
 </tr>
 
