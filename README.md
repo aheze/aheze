@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Andrew Zheng, an iOS developer. 
 
-<a href="https://getfind.app"><img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Header.png" alt="Link to getfind.app"></a>
+<a href="https://twitter.com/aheze0"><img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Header.jpg" alt="Link to Twitter (@aheze0)"></a>
 
 <table>
 <tr>
