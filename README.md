@@ -29,7 +29,7 @@ Swift + SwiftUI
 Find v3.0
 </td>
 <td colspan="2">
-Linear tickets
+Sono Bisque Doll wa Koi wo Suru vol. 10
 </td>
 </tr>
 
