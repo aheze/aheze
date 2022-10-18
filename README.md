@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Andrew Zheng, an iOS developer. 
 
-<a href="https://getfind.app"><img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Header.png" alt="Link to getfind.app"></a>
+<a href="https://twitter.com/aheze0"><img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Header.jpg" alt="Link to Twitter (@aheze0)"></a>
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ Stack Overflow posts
 
 </table>
 
-<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-16.8k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
+<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-18.5k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
 
   
 
