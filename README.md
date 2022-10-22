@@ -26,7 +26,7 @@
 Swift + SwiftUI
 </td>
 <td colspan="2">
-Find v3.0
+Updates to Find
 </td>
 <td colspan="2">
 Sono Bisque Doll wa Koi wo Suru vol. 10
