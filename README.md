@@ -115,7 +115,7 @@ Stack Overflow posts
 
 </table>
 
-<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-19.0k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
+<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-19.4k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
 
   
 
