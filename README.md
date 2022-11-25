@@ -69,12 +69,12 @@ Stack Overflow posts
   
 <tr>
 <td colspan="4">
-<em><samp>Find me in my <a href="https://discord.gg/Pmq8fYcus2">Discord Server</a> :)</samp></em>
+<em><samp>Find me on my <a href="https://discord.gg/Pmq8fYcus2">Discord Server</a> :)</samp></em>
 </td>
 
 <td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
+<a href="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
 </a>
 </td>
   
