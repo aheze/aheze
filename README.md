@@ -20,7 +20,7 @@
 
 <tr>
 <td colspan="2">
-<a href="https://getfind.app">Find</a>, an app to find text in real life
+<a href="https://getfind.app">Find</a>, a supercharged photo manager
 </td>
 <td colspan="2">
 Swift + SwiftUI
@@ -29,7 +29,7 @@ Swift + SwiftUI
 Updates to Find
 </td>
 <td colspan="2">
-Sono Bisque Doll wa Koi wo Suru vol. 10
+Arcadia
 </td>
 </tr>
 
@@ -37,7 +37,7 @@ Sono Bisque Doll wa Koi wo Suru vol. 10
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/Popovers">Popovers</a>, an open-source library
+<a href="https://github.com/aheze/OpenFind">OpenFind</a>, an open-source OCR app
 </td>
 <td colspan="2">
 UI + UX design
@@ -46,13 +46,13 @@ UI + UX design
 New open-source libraries
 </td>
 <td colspan="2">
-Kaguya-sama vol. 25
+Sono Bisque Doll wa Koi wo Suru vol. 10
 </td>
 </tr>
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library
+<a href="https://github.com/aheze/Prism">Prism</a>, an open-source library
 </td>
 <td colspan="2">
 How to write the essays good
