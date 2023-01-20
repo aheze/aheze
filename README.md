@@ -29,7 +29,7 @@ Swift + SwiftUI
 Updates to Find
 </td>
 <td colspan="2">
-Arcadia
+Chainsaw Man
 </td>
 </tr>
 
