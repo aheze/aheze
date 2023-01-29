@@ -20,16 +20,16 @@
 
 <tr>
 <td colspan="2">
-<a href="https://getfind.app">Find</a>, an app to find text in real life
+<a href="https://getfind.app">Find</a>, a supercharged photo manager
 </td>
 <td colspan="2">
 Swift + SwiftUI
 </td>
 <td colspan="2">
-Find v3.0
+Updates to Find
 </td>
 <td colspan="2">
-Sono Bisque Doll wa Koi wo Suru vol. 10
+Chainsaw Man
 </td>
 </tr>
 
@@ -37,7 +37,7 @@ Sono Bisque Doll wa Koi wo Suru vol. 10
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/Popovers">Popovers</a>, an open-source library
+<a href="https://github.com/aheze/OpenFind">OpenFind</a>, an open-source OCR app
 </td>
 <td colspan="2">
 UI + UX design
@@ -46,13 +46,13 @@ UI + UX design
 New open-source libraries
 </td>
 <td colspan="2">
-Kaguya-sama vol. 25
+Sono Bisque Doll wa Koi wo Suru vol. 10
 </td>
 </tr>
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/SupportDocs">SupportDocs</a>, an open-source library
+<a href="https://github.com/aheze/Prism">Prism</a>, an open-source library
 </td>
 <td colspan="2">
 How to write the essays good
@@ -69,12 +69,12 @@ Stack Overflow posts
   
 <tr>
 <td colspan="4">
-<em><samp>Find me in my <a href="https://discord.gg/Pmq8fYcus2">Discord Server</a> :)</samp></em>
+<em><samp>Find me on my <a href="https://discord.gg/Pmq8fYcus2">Discord Server</a> :)</samp></em>
 </td>
 
 <td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
+<a href="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
 </a>
 </td>
   
@@ -115,7 +115,7 @@ Stack Overflow posts
 
 </table>
 
-<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-18.5k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
+<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-20.3k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
 
   
 
