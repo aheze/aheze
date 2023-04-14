@@ -50,7 +50,7 @@ Sono Bisque Doll wa Koi wo Suru vol. 10
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/Prism">Prism</a>, an open-source library
+<a href="https://github.com/aheze/SwipeActions">SwipeActions</a>, an open-source library
 </td>
 <td colspan="2">
 How to write the essays good
