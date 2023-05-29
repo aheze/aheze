@@ -18,7 +18,7 @@
 
 <tr>
 <td colspan="2">
-<a href="https://getfind.app">Find</a>, a supercharged photo manager
+<a href="https://midnight.day">Midnight</a>, a next-level alarm app
 </td>
 <td colspan="2">
 Swift + SwiftUI
@@ -35,7 +35,7 @@ Chainsaw Man
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/OpenFind">OpenFind</a>, an open-source OCR app
+<a href="https://getfind.app">Find</a>, a supercharged photo manager
 </td>
 <td colspan="2">
 UI + UX design
@@ -113,7 +113,7 @@ Stack Overflow posts
 
 </table>
 
-<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-22.6k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
+<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-22.7k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
 
   
 
