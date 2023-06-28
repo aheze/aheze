@@ -18,7 +18,7 @@
 
 <tr>
 <td colspan="2">
-<a href="https://midnight.day">Midnight</a>, a next-level alarm app
+iOS Photos @ Apple
 </td>
 <td colspan="2">
 Swift + SwiftUI
@@ -35,7 +35,7 @@ Chainsaw Man
 
 <tr>
 <td colspan="2">
-<a href="https://getfind.app">Find</a>, a supercharged photo manager
+Temporarily inactive here
 </td>
 <td colspan="2">
 UI + UX design
@@ -50,7 +50,7 @@ Sono Bisque Doll wa Koi wo Suru vol. 10
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/aheze/SwipeActions">SwipeActions</a>, an open-source library
+Coming back in August
 </td>
 <td colspan="2">
 How to write the essays good
