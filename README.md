@@ -1,91 +1,3 @@
-<table>
-<tr>
-<td colspan="2">
-<strong><samp>Working on:</samp></strong>
-</td>
-<td colspan="2">
-<strong><samp>Learning:</samp></strong>
-</td>
-<td colspan="2">
-<strong><samp>Planning:</samp></strong>
-</td>
-<td colspan="2">
-<strong><samp>Reading:</samp></strong>
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-iOS Photos @ Apple
-</td>
-<td colspan="2">
-Swift + SwiftUI
-</td>
-<td colspan="2">
-Updates to Find
-</td>
-<td colspan="2">
-Chainsaw Man
-</td>
-</tr>
-
-
-
-<tr>
-<td colspan="2">
-Temporarily inactive here
-</td>
-<td colspan="2">
-UI + UX design
-</td>
-<td colspan="2">
-New open-source libraries
-</td>
-<td colspan="2">
-Sono Bisque Doll wa Koi wo Suru vol. 10
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-Coming back in August
-</td>
-<td colspan="2">
-How to write the essays good
-</td>
-<td colspan="2">
-On going to college
-</td>
-<td colspan="2">
-Stack Overflow posts
-</td>
-</tr>
-
-
-  
-<tr>
-<td colspan="4">
-<em><samp>Scroll down to check out my projects!</samp></em>
-</td>
-
-<td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
-</a>
-</td>
-  
-<td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheze&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-</a>
-</td>
-
-
-</td>
-</tr>
-
-<tr>
-<td colspan="4">
 <a href="https://twitter.com/aheze0">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Twitter.svg" width="40">
 </a>
@@ -107,9 +19,6 @@ Stack Overflow posts
 <a href="mailto:aheze@getfind.app">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Email.svg" width="40">
 </a>
-</td>
-
-</table>
 
 <a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=00b035&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-22.7k-F47F24"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=007EEF&label=Profile%20Views"></a>
 
