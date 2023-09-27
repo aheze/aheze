@@ -1,4 +1,4 @@
-<a href="https://x/aheze0">
+<a href="https://x.com/aheze0">
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/X.svg" width="40">
 </a>
 <a href="https://www.linkedin.com/in/aheze">
