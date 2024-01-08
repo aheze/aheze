@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Substack.svg" width="40">
 </a>
 
-<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=007DFF&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-26.2k-FF007D"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=5BBF0F&label=Profile%20Views"></a>
+<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=007DFF&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-26.4k-FF007D"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=5BBF0F&label=Profile%20Views"></a>
 
 <table>
 <tr>
