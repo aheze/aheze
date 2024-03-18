@@ -16,12 +16,4 @@
 
 <a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/807790675998277672?color=007DFF&label=Discord"></a> <a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-27.2k-FF007D"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=5BBF0F&label=Profile%20Views"></a>
 
-<table>
-<tr>
-<td>
-<a href="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=aheze&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
-</a>
-</td>
-</tr>
-</table>
+Looking for a new calculator? Download [Acute Calculator](https://apps.apple.com/app/acute-calculator/id6476837563)!
