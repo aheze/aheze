@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/aheze/aheze/master/Assets/Substack.svg" width="40">
 </a>
 
-<a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-28.9k-FF007D"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=5BBF0F&label=Profile%20Views"></a>
+<a href="https://stackoverflow.com/users/14351818/aheze"><img src="https://img.shields.io/badge/Stack%20Overflow-29.1k-FF007D"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=aheze&color=5BBF0F&label=Profile%20Views"></a>
 
 ---
 
